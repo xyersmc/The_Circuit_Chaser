@@ -22,5 +22,5 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_Meet our dynamic team of three as we gear up for the World Robot Olympiad (WRO) with our advanced self-automated robot. Fueled by creativity and technical skill, we’ve built a machine that represents both innovation and efficiency. Each member contributes unique strengths—engineering, programming, and strategy—enabling us to approach every challenge with precision and collaboration. We’re eager to push the limits of robotics and proudly showcase our dedication, teamwork, and passion on this global stage!_
+_Meet our dynamic team of three as we gear up for the World Robot Olympiad Bangladesh (WROBd) with our advanced self-automated robot. Fueled by creativity and technical skill, we’ve built a machine that represents both innovation and efficiency. Each member contributes unique strengths—engineering, programming, and strategy—enabling us to approach every challenge with precision and collaboration. We’re eager to push the limits of robotics and proudly showcase our dedication, teamwork, and passion on this global stage!_
 
