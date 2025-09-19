@@ -22,5 +22,5 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+_Meet our dynamic team of three as we gear up for the World Robot Olympiad (WRO) with our advanced self-automated robot. Fueled by creativity and technical skill, we’ve built a machine that represents both innovation and efficiency. Each member contributes unique strengths—engineering, programming, and strategy—enabling us to approach every challenge with precision and collaboration. We’re eager to push the limits of robotics and proudly showcase our dedication, teamwork, and passion on this global stage!_
 
