@@ -1,12 +1,12 @@
 ## Engineering materials
-*Raspberry Pi5
-*Motor Driver L298N
-*Sonar Sensor HC-SR04
-*Servo Motor MG995
-*12V DC Motor
-*Logitech C270 webcam
-*Switch
-*Brass Insert
+* Raspberry Pi5
+* Motor Driver L298N
+* Sonar Sensor HC-SR04
+* Servo Motor MG995
+* 12V DC Motor
+* Logitech C270 webcam
+* Switch
+* Brass Insert
 
 ====
 
