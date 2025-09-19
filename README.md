@@ -1,8 +1,16 @@
 ## Engineering materials
+*Raspberry Pi5
+*Motor Driver L298N
+*Sonar Sensor HC-SR04
+*Servo Motor MG995
+*12V DC Motor
+*Logitech C270 webcam
+*Switch
+*Brass Insert
 
 ====
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
+This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2025.
 
 ## Content
 
@@ -10,7 +18,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 * `video` contains the video.md file with the link to a video where driving demonstration exists
 * `src` contains code of control software for all components which were programmed to participate in the competition
 * `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
-* `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
+
 
 ## Introduction
 
